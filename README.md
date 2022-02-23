@@ -17,6 +17,8 @@
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
 🧠 "You miss 100% of the shots yout don't take. - Wayne Gretzky" - Michael Scott - Ronaldo Mengato </br></br>
 
+<hr />
+
 <div align="center">
   <a href="https://github.com/ronaldomengato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronaldomengato&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
